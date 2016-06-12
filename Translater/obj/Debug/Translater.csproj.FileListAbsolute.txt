@@ -1,0 +1,10 @@
+D:\Study\Translater\Translater\bin\Debug\Translater.exe.config
+D:\Study\Translater\Translater\bin\Debug\Translater.exe
+D:\Study\Translater\Translater\bin\Debug\Translater.pdb
+D:\Study\Translater\Translater\obj\Debug\Translater.csprojResolveAssemblyReference.cache
+D:\Study\Translater\Translater\obj\Debug\Translater.exe
+D:\Study\Translater\Translater\obj\Debug\Translater.pdb
+D:\Study\Translater\Translater\bin\Debug\Newtonsoft.Json.dll
+D:\Study\Translater\Translater\bin\Debug\System.Net.Http.Formatting.dll
+D:\Study\Translater\Translater\bin\Debug\Newtonsoft.Json.xml
+D:\Study\Translater\Translater\bin\Debug\System.Net.Http.Formatting.xml
