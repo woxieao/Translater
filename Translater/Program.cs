@@ -25,7 +25,7 @@ namespace Translater
             {
                 query = args.Aggregate(string.Empty, (current, arg) => current + $"{arg} ");
             }
-           ; while (query.ToLower() != "e")
+            while (query.ToLower() != "e")
             {
                 try
                 {
@@ -71,11 +71,14 @@ namespace Translater
                             ? "翻译成功!(输入E以退出或继续输入以翻译)"
                             : "Translate Success!(Input E to exit Or type to translate)");
                     }
-                    query = Console.ReadLine() ?? "";
                 }
                 catch
                 {
                     Console.WriteLine("Error");
+                }
+                finally
+                {
+                    query = Console.ReadLine() ?? "";
                 }
             }
         }
